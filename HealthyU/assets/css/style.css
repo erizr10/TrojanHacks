@@ -1,0 +1,25 @@
+#map{
+  position: relative;
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+
+#map-container{
+  height: 500px;
+  margin: 0;
+}
+
+#pac-container{
+  padding-top: 10px;
+}
+
+#autocomplete{
+  width: 96%;
+  min-height: 30px;
+  padding: 10px;
+  margin: auto;
+  display: block;
+  border-radius: 4px transparent;
+  box-shadow: none
+}
